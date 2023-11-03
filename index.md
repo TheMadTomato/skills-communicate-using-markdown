@@ -4,4 +4,8 @@
 
 ## i am header 2
 
+``` python
+print("hello, world")
+```
+
 ###### i am header 6
